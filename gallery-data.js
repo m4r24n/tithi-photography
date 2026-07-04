@@ -148,7 +148,69 @@ const galleryImages = [
     src: "assets/sample-gigs-01.svg"
   },
 
-  /* EDITORIAL PAGE */
+  /* PORTRAIT PAGE */
+    {
+    title: "Portrait Study I",
+    category: "portraits",
+    thumbType: "portrait",
+    src: "assets/sample-gigs-01.svg"
+  },
+  {
+    title: "Window Light",
+    category: "portraits",
+    thumbType: "portrait",
+    src: "assets/sample-gigs-02.svg"
+  },
+  {
+    title: "Quiet Expression",
+    category: "portraits",
+    thumbType: "square",
+    src: "assets/sample-gigs-03.svg"
+  },
+  {
+    title: "Soft Gaze",
+    category: "portraits",
+    thumbType: "landscape",
+    src: "assets/sample-maya-01.svg"
+  },
+  {
+    title: "The Still Frame",
+    category: "portraits",
+    thumbType: "portrait",
+    src: "assets/sample-maya-02.svg"
+  },
+  {
+    title: "Afternoon Portrait",
+    category: "portraits",
+    thumbType: "square",
+    src: "assets/sample-maya-03.svg"
+  },
+  {
+    title: "Profile in Light",
+    category: "portraits",
+    thumbType: "wide",
+    src: "assets/sample-maya-04.svg"
+  },
+  {
+    title: "Natural Light Study",
+    category: "portraits",
+    thumbType: "portrait",
+    src: "assets/sample-editorial-01.svg"
+  },
+  {
+    title: "Close Frame",
+    category: "portraits",
+    thumbType: "landscape",
+    src: "assets/sample-editorial-02.svg"
+  },
+  {
+    title: "Portrait Note",
+    category: "portraits",
+    thumbType: "square",
+    src: "assets/sample-editorial-03.svg"
+  },
+   /* EDITORIAL PAGE */
+  
   {
     title: "Soft Editorial I",
     category: "editorial",
