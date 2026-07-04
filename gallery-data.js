@@ -115,7 +115,7 @@ const galleryImages = [
     title: "Warm Light",
     category: "gigs",
     thumbType: "portrait",
-    src: "assets/sample-gigs-02.svg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783204860/editorial_2_aedxgb.jpg"
   },
   {
     title: "Event Frame",
@@ -133,7 +133,7 @@ const galleryImages = [
     title: "Quiet Portrait",
     category: "gigs",
     thumbType: "portrait",
-    src: "assets/sample-gigs-02.svg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783204869/editorial_1_bohbhm.jpg"
   },
   {
     title: "The Moment",
@@ -153,7 +153,7 @@ const galleryImages = [
     title: "Portrait I",
     category: "portraits",
     thumbType: "portrait",
-    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783204656/Portrait_4_npvr41.jpg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783204662/Portrait_2_yshj00.jpg"
   },
   {
     title: "Window Light",
@@ -177,7 +177,7 @@ const galleryImages = [
     title: "The Still Frame",
     category: "portraits",
     thumbType: "portrait",
-    src: "assets/sample-maya-02.svg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783204861/Portrait_5_ntnog9.jpg"
   },
   {
     title: "Afternoon Portrait",
