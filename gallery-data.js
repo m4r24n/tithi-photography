@@ -28,7 +28,7 @@ const galleryImages = [
     title: "The Day to Day",
     category: "maya",
     thumbType: "landscape",
-    src: "assets/sample-maya-01.svg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/f_auto,q_auto/IMG_6066_jueshd"
   },
   {
     title: "Quiet Window Light",
