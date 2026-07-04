@@ -24,11 +24,12 @@ const siteConfig = {
 };
 
 const galleryImages = [
+  /* MAYA PAGE */
   {
     title: "The Day to Day",
     category: "maya",
     thumbType: "landscape",
-    src: "https://res.cloudinary.com/tnrgjpya/image/upload/f_auto,q_auto/IMG_6066_jueshd"
+    src: "assets/sample-maya-01.svg"
   },
   {
     title: "Quiet Window Light",
@@ -49,23 +50,105 @@ const galleryImages = [
     src: "assets/sample-maya-04.svg"
   },
   {
+    title: "Soft Afternoon",
+    category: "maya",
+    thumbType: "landscape",
+    src: "assets/sample-maya-01.svg"
+  },
+  {
+    title: "Stillness",
+    category: "maya",
+    thumbType: "portrait",
+    src: "assets/sample-maya-02.svg"
+  },
+  {
+    title: "Everyday Light",
+    category: "maya",
+    thumbType: "square",
+    src: "assets/sample-maya-03.svg"
+  },
+  {
+    title: "Passing Season",
+    category: "maya",
+    thumbType: "landscape",
+    src: "assets/sample-maya-04.svg"
+  },
+  {
+    title: "Quiet Place",
+    category: "maya",
+    thumbType: "portrait",
+    src: "assets/sample-maya-01.svg"
+  },
+  {
+    title: "Open Air",
+    category: "maya",
+    thumbType: "wide",
+    src: "assets/sample-maya-02.svg"
+  },
+
+  /* GIGS PAGE */
+  {
     title: "Evening Session",
     category: "gigs",
     thumbType: "landscape",
     src: "assets/sample-gigs-01.svg"
   },
   {
-    title: "Portrait Study",
+    title: "The Bride",
+    category: "gigs",
+    thumbType: "portrait",
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783130670/Thebride.jpg"
+  },
+  {
+    title: "Couple in the Woods",
+    category: "gigs",
+    thumbType: "square",
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783130674/CouplesInTheWoods.jpg"
+  },
+  {
+    title: "Team Bride",
+    category: "gigs",
+    thumbType: "wide",
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783130659/TeamBride.jpg"
+  },
+  {
+    title: "Warm Light",
     category: "gigs",
     thumbType: "portrait",
     src: "assets/sample-gigs-02.svg"
   },
   {
-    title: "Gathering",
+    title: "Event Frame",
     category: "gigs",
-    thumbType: "square",
+    thumbType: "landscape",
     src: "assets/sample-gigs-03.svg"
   },
+  {
+    title: "After Hours",
+    category: "gigs",
+    thumbType: "square",
+    src: "assets/sample-gigs-01.svg"
+  },
+  {
+    title: "Quiet Portrait",
+    category: "gigs",
+    thumbType: "portrait",
+    src: "assets/sample-gigs-02.svg"
+  },
+  {
+    title: "The Moment",
+    category: "gigs",
+    thumbType: "landscape",
+    src: "assets/sample-gigs-03.svg"
+  },
+  {
+    title: "Close Frame",
+    category: "gigs",
+    thumbType: "wide",
+    src: "assets/sample-gigs-01.svg"
+  },
+
+  /* EDITORIAL PAGE */
   {
     title: "Soft Editorial I",
     category: "editorial",
@@ -85,6 +168,50 @@ const galleryImages = [
     src: "assets/sample-editorial-03.svg"
   },
   {
+    title: "Editorial Study",
+    category: "editorial",
+    thumbType: "square",
+    src: "assets/sample-editorial-01.svg"
+  },
+  {
+    title: "In Between",
+    category: "editorial",
+    thumbType: "portrait",
+    src: "assets/sample-editorial-02.svg"
+  },
+  {
+    title: "A Shape of Light",
+    category: "editorial",
+    thumbType: "landscape",
+    src: "assets/sample-editorial-03.svg"
+  },
+  {
+    title: "Quiet Color",
+    category: "editorial",
+    thumbType: "square",
+    src: "assets/sample-editorial-01.svg"
+  },
+  {
+    title: "The Still Image",
+    category: "editorial",
+    thumbType: "portrait",
+    src: "assets/sample-editorial-02.svg"
+  },
+  {
+    title: "Surface and Shadow",
+    category: "editorial",
+    thumbType: "wide",
+    src: "assets/sample-editorial-03.svg"
+  },
+  {
+    title: "Editorial Note",
+    category: "editorial",
+    thumbType: "landscape",
+    src: "assets/sample-editorial-01.svg"
+  },
+
+  /* FEATURES PAGE */
+  {
     title: "Selected Feature",
     category: "features",
     thumbType: "landscape",
@@ -94,6 +221,54 @@ const galleryImages = [
     title: "Commission Highlight",
     category: "features",
     thumbType: "square",
+    src: "assets/sample-features-02.svg"
+  },
+  {
+    title: "Featured Story",
+    category: "features",
+    thumbType: "portrait",
+    src: "assets/sample-features-01.svg"
+  },
+  {
+    title: "Visual Note",
+    category: "features",
+    thumbType: "wide",
+    src: "assets/sample-features-02.svg"
+  },
+  {
+    title: "Published Frame",
+    category: "features",
+    thumbType: "landscape",
+    src: "assets/sample-features-01.svg"
+  },
+  {
+    title: "Collaboration",
+    category: "features",
+    thumbType: "portrait",
+    src: "assets/sample-features-02.svg"
+  },
+  {
+    title: "Selected Work",
+    category: "features",
+    thumbType: "square",
+    src: "assets/sample-features-01.svg"
+  },
+  {
+    title: "Feature Detail",
+    category: "features",
+    thumbType: "landscape",
+    src: "assets/sample-features-02.svg"
+  },
+  {
+    title: "Commission Story",
+    category: "features",
+    thumbType: "portrait",
+    src: "assets/sample-features-01.svg"
+  },
+  {
+    title: "Archive Selection",
+    category: "features",
+    thumbType: "wide",
     src: "assets/sample-features-02.svg"
   }
 ];
