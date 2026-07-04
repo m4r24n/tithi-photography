@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 950" role="img" aria-label="Maya 02">
+  <rect width="700" height="950" fill="#e7e0d7"/>
+  <circle cx="504" cy="266" r="98" fill="#9c8a7e" opacity="0.28"/>
+  <rect x="84" y="171" width="406" height="551" fill="none" stroke="#9c8a7e" stroke-width="6" opacity="0.35"/>
+  <path d="M 70 760 C 210 551, 315 874, 616 551" fill="none" stroke="#9c8a7e" stroke-width="9" stroke-linecap="round" opacity="0.50"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Courier New, monospace" font-size="49" fill="#9c8a7e" opacity="0.75">Maya 02</text>
+</svg>

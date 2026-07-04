@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 630" role="img" aria-label="Gigs 01">
+  <rect width="950" height="630" fill="#e1d7cf"/>
+  <circle cx="684" cy="176" r="88" fill="#8a7166" opacity="0.28"/>
+  <rect x="114" y="113" width="551" height="365" fill="none" stroke="#8a7166" stroke-width="6" opacity="0.35"/>
+  <path d="M 95 504 C 285 365, 428 580, 836 365" fill="none" stroke="#8a7166" stroke-width="9" stroke-linecap="round" opacity="0.50"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Courier New, monospace" font-size="44" fill="#8a7166" opacity="0.75">Gigs 01</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Editorial 03">
+  <rect width="1200" height="675" fill="#dad6cf"/>
+  <circle cx="864" cy="189" r="95" fill="#6e6b65" opacity="0.28"/>
+  <rect x="144" y="122" width="696" height="392" fill="none" stroke="#6e6b65" stroke-width="6" opacity="0.35"/>
+  <path d="M 120 540 C 360 392, 540 621, 1056 392" fill="none" stroke="#6e6b65" stroke-width="9" stroke-linecap="round" opacity="0.50"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Courier New, monospace" font-size="47" fill="#6e6b65" opacity="0.75">Editorial 03</text>
+</svg>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Gigs photography portfolio by Shamina Israt Tithi." />
+  <title>Gigs | Maya</title>
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="sidebar-root" data-active="gigs"></div>
+
+  <main class="page gallery-page">
+    <div class="page-heading">
+      <p class="kicker">Gigs</p>
+      <h1>Portrait sessions, events, gatherings, and commissioned visual stories.</h1>
+    </div>
+    <section class="gallery-grid" id="galleryGrid" data-category="gigs" aria-label="Gigs photography gallery"></section>
+  </main>
+
+  <footer class="footer">© <span id="year"></span> Maya / Shamina Israt Tithi</footer>
+
+  <div class="lightbox" id="lightbox" aria-modal="true" role="dialog">
+    <div class="lightbox-inner">
+      <button class="lightbox-button close" id="lightboxClose" aria-label="Close">×</button>
+      <button class="lightbox-button prev" id="lightboxPrev" aria-label="Previous">‹</button>
+      <img id="lightboxImage" alt="" />
+      <button class="lightbox-button next" id="lightboxNext" aria-label="Next">›</button>
+      <p class="lightbox-caption" id="lightboxCaption"></p>
+    </div>
+  </div>
+
+  <script src="gallery-data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
