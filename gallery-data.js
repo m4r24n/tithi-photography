@@ -224,16 +224,16 @@ const galleryImages = [
     src: "assets/sample-features-02.svg"
   },
   {
-    title: "Featured Story",
+    title: "Story of Dust!",
     category: "features",
     thumbType: "portrait",
-    src: "assets/sample-features-01.svg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783131830/Story%20of%20a%20Village.jpg"
   },
   {
-    title: "Visual Note",
+    title: "Story of Green!",
     category: "features",
     thumbType: "wide",
-    src: "assets/sample-features-02.svg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783131842/Story%20of%20Green.jpg"
   },
   {
     title: "Published Frame",
@@ -242,10 +242,10 @@ const galleryImages = [
     src: "assets/sample-features-01.svg"
   },
   {
-    title: "Collaboration",
+    title: "Wind of Change",
     category: "features",
     thumbType: "portrait",
-    src: "assets/sample-features-02.svg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783132839/WindOwfChange%21.jpg"
   },
   {
     title: "Selected Work",
