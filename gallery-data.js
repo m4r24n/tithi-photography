@@ -97,19 +97,19 @@ const galleryImages = [
     title: "The Bride",
     category: "gigs",
     thumbType: "portrait",
-    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783130670/Thebride.jpg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/c_fill,g_auto,w_700,h_525/f_auto/q_auto/v1783130670/Thebride.jpg"
   },
   {
     title: "Couple in the Woods",
     category: "gigs",
     thumbType: "square",
-    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783130674/CouplesInTheWoods.jpg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/c_fill,g_auto,w_700,h_525/f_auto/q_auto/v1783130674/CouplesInTheWoods.jpg"
   },
   {
     title: "Team Bride",
     category: "gigs",
     thumbType: "wide",
-    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783130659/TeamBride.jpg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/c_fill,g_auto,w_700,h_525/f_auto/q_auto/v1783130659/TeamBride.jpg"
   },
   {
     title: "Warm Light",
@@ -289,13 +289,13 @@ const galleryImages = [
     title: "Story of Dust!",
     category: "features",
     thumbType: "portrait",
-    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783131830/Story%20of%20a%20Village.jpg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/c_fill,g_auto,w_700,h_525/f_auto/q_auto/v1783131830/Story%20of%20a%20Village.jpg"
   },
   {
     title: "Story of Green!",
     category: "features",
     thumbType: "wide",
-    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783131842/Story%20of%20Green.jpg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/c_fill,g_auto,w_700,h_525/f_auto/q_auto/v1783131842/Story%20of%20Green.jpg"
   },
   {
     title: "Published Frame",
@@ -307,7 +307,7 @@ const galleryImages = [
     title: "Wind of Change",
     category: "features",
     thumbType: "portrait",
-    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783132839/WindOwfChange%21.jpg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/c_fill,g_auto,w_700,h_525/f_auto/q_auto/v1783132839/WindOwfChange%21.jpg"
   },
   {
     title: "Selected Work",
