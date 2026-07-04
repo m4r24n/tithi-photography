@@ -150,22 +150,22 @@ const galleryImages = [
 
   /* PORTRAIT PAGE */
     {
-    title: "Portrait Study I",
+    title: "Portrait I",
     category: "portraits",
     thumbType: "portrait",
-    src: "assets/sample-gigs-01.svg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783204656/Portrait_4_npvr41.jpg"
   },
   {
     title: "Window Light",
     category: "portraits",
     thumbType: "portrait",
-    src: "assets/sample-gigs-02.svg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783204664/Portrait_3_zgawsi.jpg"
   },
   {
     title: "Quiet Expression",
     category: "portraits",
     thumbType: "square",
-    src: "assets/sample-gigs-03.svg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783204669/Portrait_1_j4fs4c.jpg"
   },
   {
     title: "Soft Gaze",
@@ -189,7 +189,7 @@ const galleryImages = [
     title: "Profile in Light",
     category: "portraits",
     thumbType: "wide",
-    src: "assets/sample-maya-04.svg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/v1783204656/Portrait_4_npvr41.jpg"
   },
   {
     title: "Natural Light Study",
@@ -295,7 +295,7 @@ const galleryImages = [
     title: "Story of Green!",
     category: "features",
     thumbType: "wide",
-    src: "https://res.cloudinary.com/tnrgjpya/image/upload/c_fill,g_auto,w_700,h_525/f_auto/q_auto/v1783131842/Story%20of%20Green.jpg"
+    src: "https://res.cloudinary.com/tnrgjpya/image/upload/c_fill,g_auto,w_700,h_525/f_auto/q_auto/v1783203687/nature_suivuv.jpg"
   },
   {
     title: "Published Frame",
